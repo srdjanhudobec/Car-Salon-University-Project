@@ -1,0 +1,35 @@
+.nav{
+    background-color: lightblue;
+    padding: 20px;
+    margin-bottom: 20px;
+    text-align: center;
+}
+a{
+    color: yellow;
+    text-decoration: none;
+    margin-left: 10px;
+    text-align: center;
+}
+body{
+    background-color: lightblue;
+    color: red;
+}
+form{
+    display: block;
+    width: 400px;
+    margin: 0% auto;
+    text-align: center;
+
+}
+div{
+    display: block;
+    width: 400px;
+    margin: 0% auto;
+text-align: center;
+}
+table{
+    display: block;
+    width: 400px;
+    margin: 0% auto;
+    text-align: center;
+}
